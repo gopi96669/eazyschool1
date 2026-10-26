@@ -5,11 +5,7 @@ import org.hibernate.validator.constraints.CreditCardNumber;
 
 import jakarta.validation.constraints.*;
 
-/*
-@Data annotation is provided by Lombok library which generates getter, setter,
-equals(), hashCode(), toString() methods & Constructor at compile time.
-This makes our code short and clean.
-* */
+
 @Data
 public class Contact {
 
