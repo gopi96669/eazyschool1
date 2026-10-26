@@ -1,10 +1,3 @@
-# Master Spring framework, Spring Boot, REST, JPA, Hibernate
-
-
-[![Image](https://github.com/eazybytes/spring/blob/3.4.2/Spring.png "Master Spring framework, Spring Boot, REST, JPA, Hibernate")](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/?referralCode=9FA65DAC46E91F6A225D)
-
-**'Master Spring framework, Spring Boot, REST, JPA, Hibernate'** course will help in understanding about Spring framework and how to build web applications, Rest Services using Spring, Spring MVC, SpringBoot, Thymeleaf, Spring JDBC, Spring Data JPA etc
-
 ## Topics covered in the course
 
 1) What is Spring framework ?
